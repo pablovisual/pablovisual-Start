@@ -73,7 +73,6 @@ public class GuideTest {
         System.out.println("Expected: "+expected);
         System.out.println("Actual: "+actual);
         Assert.assertEquals(expected, actual);
-
     }
 
 }
